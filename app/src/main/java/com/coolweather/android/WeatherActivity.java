@@ -33,7 +33,7 @@ public class WeatherActivity extends AppCompatActivity {
     private ScrollView weatherLayout;
     private TextView titleCity;
     private TextView titleUpdateTime;
-    private TextView degreeText;
+    private TextView degreeText;//1324
     private TextView weatherInfoText;
     private LinearLayout forecastLayout;
     private TextView aqiText;
